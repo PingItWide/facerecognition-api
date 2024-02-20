@@ -15,7 +15,7 @@ client: 'pg',
     ssl: {
     rejectUnauthorized: false
   }
-    host : 'dpg-cn9ullgl5elc7394m810-a',
+    host : 'https://facerecognition-api-e9tx.onrender.com',
     port : 5432,
     user : 'facerecognition_api_2y1u_user',
     password : 'U8B1Q68ZpLIQ4LZzqy3Nvr4YaidfbsnH',
