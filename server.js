@@ -14,7 +14,7 @@ client: 'pg',
   	connectionString: 'postgres://facerecognition_api_2y1u_user:U8B1Q68ZpLIQ4LZzqy3Nvr4YaidfbsnH@dpg-cn9ullgl5elc7394m810-a/facerecognition_api_2y1u',
     ssl: {
     rejectUnauthorized: false
-  }
+  },
     host : 'dpg-cn9ullgl5elc7394m810-a',
     port : 5432,
     user : 'facerecognition_api_2y1u_user',
